@@ -1,0 +1,41 @@
+{
+  "name": "Citrus Hour",
+  "subtitle": "Three classic citrus cocktails.",
+  "description": "A small offline source featuring Citrus Hour 01, a recipe app for a Margarita, a Paloma and a Whiskey Sour.",
+  "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t01/main/icon.png",
+  "website": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t01",
+  "tintColor": "#CC5C1A",
+  "nsfw": false,
+  "featuredApps": [
+    "io.altstore.drinkbench.b01.t01.r957952f016"
+  ],
+  "apps": [
+    {
+      "name": "Citrus Hour 01",
+      "bundleIdentifier": "io.altstore.drinkbench.b01.t01.r957952f016",
+      "developerName": "maddiemccarthy",
+      "subtitle": "Three classic citrus cocktails.",
+      "localizedDescription": "Browse recipes for a Margarita, Paloma and Whiskey Sour with ingredient quantities, prep time, glass type and numbered steps. Tap Surprise Me for a different drink. Works fully offline.",
+      "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t01/main/icon.png",
+      "tintColor": "#CC5C1A",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-29T11:47:49-07:00",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t01/releases/download/v1.0/CitrusHour01.ipa",
+          "size": 80153,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
